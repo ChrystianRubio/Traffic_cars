@@ -1,2 +1,10 @@
 # Traffic_cars
-Jogo simples feito com Pygame
+
+
+#############################################
+
+Dependências: pygame-2.0.0 
+
+pip3 install pygame
+
+#############################################
